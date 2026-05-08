@@ -11,4 +11,3 @@ git clone https://github.com/SaniyaGayas/git-made-easy.git
 ```
 
 ## How to use this repository
-This is a change
