@@ -11,5 +11,4 @@ git clone https://github.com/SaniyaGayas/git-made-easy.git
 ```
 
 ## How to use this repository
-
-This is my commit for my git log example
+This is a change
